@@ -5,15 +5,15 @@ A Telegram bot that converts regular text messages into Unicode text, allowing y
 ## Features
 
 - Converts normal text into Unicode variants
-- Supports multiple Unicode styles (if applicable)
+- Supports multiple Unicode styles
 - Easy to use via Telegram chat
 - Lightweight and fast
 
 ## How to Use
 
-1. Search for the bot on Telegram by its username: `@YourBotUsername`
-2. Start a chat and send any text message.
-3. The bot will respond with the Unicode-converted version of your text.
+- Send any text – Just type and send a message.
+- Choose a font – The bot will reply with your text in multiple Unicode font styles.
+- Copy & Paste – Tap and copy your favorite style to use it anywhere!
 
 ## Installation & Setup
 
