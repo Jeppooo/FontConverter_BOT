@@ -21,5 +21,5 @@ If you want to run your own instance of the bot:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/unicode-text-bot.git
-   cd unicode-text-bot
+   git clone https://github.com/Jeppooo/FontConverter_BOT
+   cd FontConverter_BOT
